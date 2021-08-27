@@ -29,10 +29,6 @@ public class MoneyUse : MonoBehaviour
             if(pickup == false)
             {
                 moneySystem.UseMoney(-gainMoney);
-                moneySystem.UseMoney(-gainMoney);
-                moneySystem.UseMoney(-gainMoney);
-                moneySystem.UseMoney(-gainMoney);
-                moneySystem.UseMoney(-gainMoney);
                 moneySystem.UseMoney(spendMoney);
             }
             if(pickup == true)
