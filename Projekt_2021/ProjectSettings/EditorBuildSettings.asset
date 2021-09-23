@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Ship.unity
     guid: 8b0a00d7c20725f46a35fd4477960a34
+  - enabled: 1
+    path: Assets/testovaci prostredi/TestScene1.unity
+    guid: 123d6b2b57427ac4fbbc90b530624da3
+  - enabled: 1
+    path: Assets/testovaci prostredi/HealthTestScene.unity
+    guid: 2d137afdb99968c4a91db72174cd8b55
   m_configObjects: {}
