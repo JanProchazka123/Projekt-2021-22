@@ -5,8 +5,12 @@ TagManager:
   serializedVersion: 2
   tags:
   - Player_Essentials
+<<<<<<< Updated upstream
   - quest giver
   - gather object
+=======
+  - Vent_Light
+>>>>>>> Stashed changes
   layers:
   - Default
   - TransparentFX
@@ -16,8 +20,8 @@ TagManager:
   - UI
   - Ground
   - Gun_Clip
-  - 
-  - 
+  - Vent_Light
+  - PostProcess
   - 
   - 
   - 
